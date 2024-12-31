@@ -45,28 +45,4 @@ To replicate the analysis or explore the queries locally, follow these steps:
 
 git clone https://github.com/your-username/child-wellbeing-analysis.git
 
-## About Me
 
-EDUCATION 
-_________________________________________________________________________________
-
-B.TECH - MECHANICAL ENGINEER - 8.65 GPA		                                   Maharashtra, India
-
-GSM Marathwada Institute of Technology - Aurangabad         	               Aug  2018  to sep 2022
-
-CERTIFICATIONS & COURSES
-_________________________________________________________________________________
-
-Machine learning with python (IBM certificate) in (01/2022).
-
-Internship project (Innodatatics Inc) in (05/2022).
-
-Python (Atharva IT Solution) in (12/2021).
-
-
-## Contact Me
-
-- Email: syedshoeb8380@gmail.com
-- LinkedIn: https://www.linkedin.com/in/syed-shoeb-99a997192/
-
-Feel free to reach out to me with any questions, feedback, or potential opportunities. I look forward to connecting with you!
