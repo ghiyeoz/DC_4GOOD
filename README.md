@@ -69,6 +69,6 @@ The project includes a set of Python script that demonstrate the analysis perfor
 - Investigating the impact of neighborhood crime rates on child development indicators.
 - Comparing child wellbeing scores between different types of childcare arrangements.
 
-Feel free to explore the queries and results in the [notebook](DS_Project.ipynb/) folder of this repository.
+
 
 
