@@ -37,12 +37,4 @@ The project includes a set of Python script that demonstrate the analysis perfor
 
 Feel free to explore the queries and results in the [notebook](DS_Project.ipynb/) folder of this repository.
 
-## Getting Started
-
-To replicate the analysis or explore the queries locally, follow these steps:
-
-1. Clone this repository to your local machine using the following command:
-
-git clone https://github.com/your-username/child-wellbeing-analysis.git
-
 
