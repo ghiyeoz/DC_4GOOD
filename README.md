@@ -1,4 +1,4 @@
-# Child Wellbeing Analysis
+# ChildWellbeing_Analyzer
 
 Welcome to the Child Wellbeing Analysis project! This repository contains an analysis of child wellbeing indicators using SQL queries. The project aims to provide insights into the factors affecting child wellbeing and offer data-driven recommendations for improvement.
 
